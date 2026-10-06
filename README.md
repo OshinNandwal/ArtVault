@@ -202,5 +202,20 @@ B.Tech — Computer Science \& Engineering (Data Science)
 
 GitHub: \[OshinNandwal](https://github.com/OshinNandwal)
 
+## 🖼️ Screenshots
+
+### Main Interface
+
+![ArtVault Main Interface](screenshots/main-interface.png)
+
+### Artwork Collection
+
+![ArtVault Artwork Collection](screenshots/artwork-collection.png)
+
+### Analytics Dashboard
+
+![ArtVault Analytics Dashboard 1](screenshots/analytics-1dashboard.png)
+
+![ArtVault Analytics Dashboard 2](screenshots/analytics-2dashboard.png)
 
 
