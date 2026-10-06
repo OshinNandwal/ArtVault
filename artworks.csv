@@ -1,0 +1,31 @@
+Artwork_ID,Artwork_Name,Artist,Category,Medium,Year,Country,Price_USD,Rating
+A001,Starry Night,Vincent van Gogh,Post-Impressionism,Oil on Canvas,1889,Netherlands,1000000,4.9
+A002,Mona Lisa,Leonardo da Vinci,Renaissance,Oil on Wood,1503,Italy,1200000,5.0
+A003,The Persistence of Memory,Salvador Dali,Surrealism,Oil on Canvas,1931,Spain,850000,4.8
+A004,The Scream,Edvard Munch,Expressionism,Oil and Pastel,1893,Norway,950000,4.9
+A005,Water Lilies,Claude Monet,Impressionism,Oil on Canvas,1906,France,720000,4.7
+A006,Guernica,Pablo Picasso,Cubism,Oil on Canvas,1937,Spain,1100000,4.9
+A007,The Birth of Venus,Sandro Botticelli,Renaissance,Tempera on Canvas,1485,Italy,900000,4.8
+A008,American Gothic,Grant Wood,Regionalism,Oil on Beaverboard,1930,USA,600000,4.6
+A009,The Kiss,Gustav Klimt,Symbolism,Oil on Canvas,1908,Austria,780000,4.8
+A010,Girl with a Pearl Earring,Johannes Vermeer,Baroque,Oil on Canvas,1665,Netherlands,880000,4.9
+A011,Las Meninas,Diego Velazquez,Baroque,Oil on Canvas,1656,Spain,760000,4.7
+A012,The Night Watch,Rembrandt,Baroque,Oil on Canvas,1642,Netherlands,820000,4.8
+A013,Self Portrait,Frida Kahlo,Modern Art,Oil on Canvas,1940,Mexico,650000,4.8
+A014,Composition VIII,Wassily Kandinsky,Abstract,Oil on Canvas,1923,Russia,700000,4.7
+A015,Campbell Soup Cans,Andy Warhol,Pop Art,Acrylic on Canvas,1962,USA,580000,4.5
+A016,The Son of Man,Rene Magritte,Surrealism,Oil on Canvas,1964,Belgium,620000,4.6
+A017,No. 5,Jackson Pollock,Abstract Expressionism,Oil on Fiberboard,1948,USA,980000,4.8
+A018,Impression Sunrise,Claude Monet,Impressionism,Oil on Canvas,1872,France,690000,4.7
+A019,The Thinker,Auguste Rodin,Sculpture,Bronze,1904,France,540000,4.6
+A020,The Sleeping Gypsy,Henri Rousseau,Naive Art,Oil on Canvas,1897,France,480000,4.5
+A021,The Arnolfini Portrait,Jan van Eyck,Renaissance,Oil on Panel,1434,Belgium,910000,4.8
+A022,The Great Wave,Katsushika Hokusai,Ukiyo-e,Woodblock Print,1831,Japan,430000,4.7
+A023,Olympia,Edouard Manet,Realism,Oil on Canvas,1863,France,670000,4.6
+A024,Liberty Leading the People,Eugene Delacroix,Romanticism,Oil on Canvas,1830,France,740000,4.8
+A025,The School of Athens,Raphael,Renaissance,Fresco,1511,Italy,1050000,4.9
+A026,Whistlers Mother,James McNeill Whistler,Realism,Oil on Canvas,1871,USA,590000,4.5
+A027,The Garden of Earthly Delights,Hieronymus Bosch,Early Renaissance,Oil on Panel,1500,Netherlands,830000,4.8
+A028,Portrait of Adele,Gustav Klimt,Symbolism,Oil on Canvas,1912,Austria,710000,4.7
+A029,Dance at Le Moulin de la Galette,Pierre-Auguste Renoir,Impressionism,Oil on Canvas,1876,France,800000,4.9
+A030,The Sleeping Venus,Giorgione,Renaissance,Oil on Canvas,1510,Italy,760000,4.7
